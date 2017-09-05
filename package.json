@@ -1,0 +1,15 @@
+{
+  "name": "bloot-api",
+  "version": "1.0.0",
+  "description": "This is node server to serve api from client to store blood donation address",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mahendra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
